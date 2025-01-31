@@ -18,7 +18,7 @@ Some concepts to apply with Typelists. The Typelist header contains a concept to
 
 ## [AggregateType](include/fr/types/AggregateType)
 
-[AggregateType Unit Tests](test/AggregateType.h).
+[AggregateType Unit Tests](test/AggregateType.cpp).
 
 Aggregate type allows you to create an aggregate tuple of multiple tempalated objects. The unit tests use std::vector as an example. It also provides a function to obtain a reference to a specific type by way of the object the vector contains.
 
